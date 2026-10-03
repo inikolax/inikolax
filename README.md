@@ -6,7 +6,7 @@ LoRA training and a built-in multitrack editor. Runs on your own GPU (NVIDIA on 
 Apple Silicon on macOS), no cloud.
 
 <a href="https://github.com/inikolax/remiqora">
-  <img src="https://raw.githubusercontent.com/inikolax/remiqora/master/docs/screenshots/en/01-home.png" width="720" alt="Remiqora home screen">
+  <img src="https://raw.githubusercontent.com/inikolax/remiqora/master/docs/social-preview.png" width="800" alt="Remiqora: generate music locally, split it into stems, then mix and finish it in a multitrack DAW">
 </a>
 
 - Website: [remiqora.com](https://remiqora.com)
