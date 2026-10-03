@@ -16,4 +16,6 @@ Apple Silicon on macOS), no cloud.
 Remiqora itself is MIT. The models keep their own licenses: ACE-Step 1.5 is MIT,
 YuE2-3B weights are CC BY-NC 4.0 (non-commercial).
 
+If Remiqora is useful to you, you can support it on [Ko-fi](https://ko-fi.com/inikolax).
+
 Feedback welcome.
